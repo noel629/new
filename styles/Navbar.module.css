@@ -1,0 +1,23 @@
+.bapak{
+    display: flex;
+    justify-content: center;
+    background-color: peachpuff;
+    align-items: center;
+    font-family: Moon Dance;
+    font-size: 25px;
+}
+
+.bapak Nav{
+    margin-right: 10px;
+    border-bottom: 1px solid black;
+}
+
+.bapak a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.bapak a:hover{
+    font-size: 35px;
+    color: red;
+}
